@@ -776,13 +776,13 @@ export const scarabs: { [key: string]: Scarab } = {
    description: "Ultimatum Encounters in Area will only offer Catalysts as Rewards to the Map Owner",
    flavourText: "Most regret finding out how the powder is made.",
  },
- "Ultimatum Scarab of Dueling": {
-   name: "Ultimatum Scarab of Dueling",
-   regex: "cto",
-   icon: "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVWx0aW1hdHVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/42d067c281/GreaterScarabUltimatum.png",
-   description: "Ultimatum Encounters in Area will always lead to a Unique Boss if possible",
-   flavourText: "Victory is meaningless, failure will be mocked.",
- },
+    "Ultimatum Scarab of Dueling": {
+        name: "Ultimatum Scarab of Dueling",
+        regex: "cto",
+        icon: "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVWx0aW1hdHVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/42d067c281/GreaterScarabUltimatum.png",
+        description: "Ultimatum Encounters in Area will always lead to a Unique Boss if possible",
+        flavourText: "Victory is meaningless, failure will be mocked.",
+    },
  "Ultimatum Scarab of Inscription": {
    name: "Ultimatum Scarab of Inscription",
    regex: "nsc",

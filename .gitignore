@@ -31,3 +31,5 @@ gradlew.bat
 gradle/
 !gradle-wrapper.jar
 .*iml
+/.vs
+/src
